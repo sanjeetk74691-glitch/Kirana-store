@@ -1,0 +1,8 @@
+{
+  "name": "KiranaConnect - Smart Neighborhood Store",
+  "description": "A comprehensive Kirana store application featuring AI-powered shopping assistance, inventory management, and intuitive customer experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
